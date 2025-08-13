@@ -17,7 +17,7 @@ Saya fokus pada **Web Development**, **ERP**, dan **Data Analyst**.
 ---
 
 ## 🐍 Snake Game
-![Snake animation](https://github.com/reno-25/fork_snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg)
+![Snake animation](https://github.com/reno-25/reno-25/blob/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg)
 
 ---
 
@@ -53,5 +53,3 @@ Saya fokus pada **Web Development**, **ERP**, dan **Data Analyst**.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/moreno_r.p)
 
 ---
-
-💡 *Profil ini otomatis menampilkan statistik terbaru dan animasi ular yang memakan kontribusi GitHub saya setiap hari!*
