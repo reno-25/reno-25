@@ -6,3 +6,5 @@
 
 ### 🐍 Snake Game
 ![Snake animation](https://github.com/renno-25/reno-25/blob/output/github-contribution-grid-snake.svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=ff79c6&lines=Hi+there!+I'm+Ra+Re;Welcome+to+my+GitHub)](https://git.io/typing-svg)
