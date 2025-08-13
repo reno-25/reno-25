@@ -29,7 +29,12 @@ jobs:
 
       - name: Sisipkan hasil ke README.md
         run: |
-          sed -i '/<!-- CODE-STATS-START -->/,/<!-- CODE-STATS-END -->/c\<!-- CODE-STATS-START -->\n'"$(cat code_stats.md)"'\n<!-- CODE-STATS-END -->' README.md
+          CONTENT="$(cat code_stats.md)"
+          awk -v new_content="$CONTENT" '
+            /<!-- CODE-STATS-START -->/ { print; print new_content; found=1; next }
+            /<!-- CODE-STATS-END -->/ { print; found=0; next }
+            !found { print }
+          ' README.md > README.tmp && mv README.tmp README.md
 
       - name: Commit & push changes
         run: |
