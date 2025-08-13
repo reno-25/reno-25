@@ -12,7 +12,6 @@ Saya fokus pada **Web Development**, **ERP**, dan **Data Analyst**.
 ## 📊 Statistik GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reno-25&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reno-25&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=reno-25&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
 
@@ -52,3 +51,4 @@ Saya fokus pada **Web Development**, **ERP**, dan **Data Analyst**.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/moreno_r.p)
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=reno-25&label=Profile%20Views&color=0e75b6&style=for-the-badge)
