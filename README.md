@@ -49,6 +49,7 @@ Saya fokus pada **Web Development**, **ERP**, dan **Data Analyst**.
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ryadimoreno@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moreno-ryadi-395b89289)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/moreno_r.p)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288262595239)
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=reno-25&label=Profile%20Views&color=0e75b6&style=for-the-badge)
