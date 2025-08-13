@@ -16,7 +16,7 @@ Saya fokus pada **Web Development**, **ERP**, dan **Data Analyst**.
 ---
 
 ## 🐍 Snake Game
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg](https://github.com/reno-25/fork_snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg))
 
 ---
 
