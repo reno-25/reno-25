@@ -1,17 +1,26 @@
 <!-- Header Animasi -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F75C7E&center=true&vCenter=true&width=900&lines=Hi+there!+👋;I'm+Moreno+Ryadi;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=900&lines=Hi+there!+👋;I'm+Moreno+Ryadi;A+Passionate+Full-Stack+Developer;Data+Enthusiast+%7C+Problem+Solver;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+
+🎯 **Aspiring Full-Stack Developer | Data Enthusiast | Problem Solver**  
+
+Welcome to my GitHub! I am a passionate and detail-oriented professional with experience in software development, data analysis, and project management. I love turning ideas into impactful digital solutions and continuously improving my technical and analytical skills.  
 
 ---
 
-## 🧑‍💻 Tentang Saya
-Halo! Saya **Moreno Ryadi**, seorang pengembang yang suka belajar teknologi baru dan membuat proyek kreatif di GitHub.  
-Saya fokus pada **Web Development**, **ERP**, dan **Data Analyst**.
+## 🚀 About Me  
+- 🎓 Background in **Information Systems / Computer Science**  
+- 💻 Skilled in **Web Development (JavaScript, React, Node.js, Express, MySQL, MongoDB)**  
+- 📊 Strong in **Data Analysis (SQL, Power BI, Excel, Python)**  
+- 🔍 Passionate about **problem-solving, clean code, and impactful solutions**  
+- 🌱 Currently exploring **Cloud Computing & DevOps**  
+- 🤝 Open to **internships, collaborations, and full-time opportunities**  
 
 ---
 
-## 📊 Statistik GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reno-25&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reno-25&layout=compact&theme=radical&cache_seconds=1800)
+## 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=reno-25&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reno-25&layout=compact&theme=tokyonight)  
+[![Moreno's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reno-25&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -45,11 +54,4 @@ Saya fokus pada **Web Development**, **ERP**, dan **Data Analyst**.
 
 ---
 
-## 📫 Hubungi Saya
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ryadimoreno@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/moreno-ryadi-395b89289)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/moreno_r.p)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288262595239)
-
----
-![Profile Views](https://komarev.com/ghpvc/?username=reno-25&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+⭐ *“Code is like humor. When you have to explain it, it’s bad.”*  
