@@ -18,14 +18,8 @@ Welcome to my GitHub! I am a passionate and detail-oriented professional with ex
 ---
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=reno-25&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reno-25&layout=compact&theme=tokyonight)  
-[![Moreno's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reno-25&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🐍 Snake Animation
-![Snake animation](https://github.com/reno-25/reno-25/blob/manual-run-output/only-svg/github-contribution-grid-snake-blue.svg)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=reno-25&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reno-25&layout=compact&theme=tokyonight)  
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=reno-25&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -54,4 +48,6 @@ Welcome to my GitHub! I am a passionate and detail-oriented professional with ex
 
 ---
 
-⭐ *“Code is like humor. When you have to explain it, it’s bad.”*  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
