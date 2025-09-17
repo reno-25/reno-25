@@ -1,5 +1,5 @@
 <!-- Header Animasi -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=900&lines=Hi+there!+👋;I'm+Moreno+Ryadi;A+Passionate+Full-Stack+Developer;Data+Enthusiast+%7C+Problem+Solver;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=900&lines=Hi+there!+👋;I'm+Moreno+Ryadi;Information+Systems+Student;Software+Engineer+%7C+Data+Enthusiast+%7C+ERP+Systems;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 🎯 **Aspiring Full-Stack Developer | Data Enthusiast | Problem Solver**  
 
@@ -12,8 +12,7 @@ Welcome to my GitHub! I am a passionate and detail-oriented professional with ex
 - 💻 Skilled in **Web Development (JavaScript, React, Node.js, Express, MySQL, MongoDB)**  
 - 📊 Strong in **Data Analysis (SQL, Power BI, Excel, Python)**  
 - 🔍 Passionate about **problem-solving, clean code, and impactful solutions**  
-- 🌱 Currently exploring **Cloud Computing & DevOps**  
-- 🤝 Open to **internships, collaborations, and full-time opportunities**  
+- 🌱 Currently exploring **Cloud Computing & DevOps**   
 
 ---
 
